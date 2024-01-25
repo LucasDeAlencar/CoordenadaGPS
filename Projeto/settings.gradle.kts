@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppGeradorQRCode"
+rootProject.name = "AppCoodernadasGPS"
 include(":app")

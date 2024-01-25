@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">AppGeradorQRCode</string>
+    <string name="app_name">AppCoodernadasGPS</string>
+    <string name="coodernadas_gps_java">Coodernadas GPS (Java)</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="txt_valor_zero">0.00</string>
+    <string name="txt_pin_gps_no_mapa">Pin GPS no Mapa</string>
+
+    <!-- Personalização de cores para app Coordenadas GPS -->
+
+
 </resources>
